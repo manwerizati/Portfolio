@@ -1,0 +1,86 @@
+/* Początek Header */
+#header {
+    position: relative;
+    float: right;
+}
+
+#menu {
+    text-align: center;
+    display: flex;
+    align-content: center;
+}
+
+#menu ul li{
+    display: inline-block;
+}
+
+#menu a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+#menu p{ 
+    position: relative; top: -40px;
+    font-size: 24px;
+}
+
+#menu p{
+    word-spacing: 5px;
+}
+
+#menu p{
+    font-family: 'Fredoka', sans-serif;
+}
+
+#wypelniacz{
+    color: white;
+}
+
+#logo{
+    position: relative; top: -15px; left: -20px;
+    float: left;
+}
+/* Koniec Header */
+
+/* Początek Main */
+#main{
+    position: relative; top: 290px;
+    text-align: center;
+}
+
+#imienazwisko{
+    position: relative; left: 3%;
+    font-size: 36px;
+    Font-family: 'Fredoka', sans-serif;
+}
+
+#dziedzina{
+    position: relative; left: 3%;
+    font-size: 32px;
+    Font-family: 'Fredoka', sans-serif;
+}
+
+#numertelefonu{
+    position: relative; left: 3%;
+    font-size: 36px;
+    Font-family: 'Fredoka', sans-serif;
+}
+
+#adresmail{
+    position: relative; left: 3%;
+    font-size: 36px;
+    Font-family: 'Fredoka', sans-serif;
+}
+
+#portfolio{
+    position: relative; left: 3%;
+    font-size: 36px;
+    Font-family: 'Fredoka', sans-serif;
+}
+
+#portfolio1{
+    position: relative; left: 3%;
+    font-size: 36px;
+    Font-family: 'Fredoka', sans-serif;
+}
+/* Koniec Main */
